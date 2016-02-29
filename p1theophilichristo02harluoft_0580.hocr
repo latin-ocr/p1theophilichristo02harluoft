@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1theophilichristo02harluoft_0580.png"; bbox 0 0 1686 3025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1469 0 1686 3025">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1469 0 1686 3025">
+     <span class='ocr_line' id='line_1_1' title="bbox 1469 0 1686 3025"><span class='ocrx_word' id='word_1_1' title='bbox 1469 0 1686 3025; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1338 1124 1356 2018">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1338 1124 1356 2018">
+     <span class='ocr_line' id='line_1_2' title="bbox 1338 1124 1356 2018; baseline -894 0"><span class='ocrx_word' id='word_1_2' title='bbox 1338 1124 1356 1172; x_wconf 46' lang='lat'>55.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1343 1332 1349 1348; x_wconf 84' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 1350 1504 1352 1506; x_wconf 77' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1353 1571 1355 1573; x_wconf 97' lang='grc'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1345 1684 1348 1693; x_wconf 81' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1341 1896 1349 1899; x_wconf 26' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1338 2010 1341 2018; x_wconf 77' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
